@@ -14,12 +14,17 @@
 ### [Enable DC/OS public access](container-service-enable-public-access.md)
 ### [Load balance containers in DC/OS](container-service-load-balancing.md)
 ### [App/User Specific Orchestrator in DC/OS](container-service-application-specific-marathon.md)
-### [Monitor with OMS (DC/OS)](container-service-monitoring-oms.md)
-### [Monitor with Datadog (DC/OS)](container-service-monitoring.md)
-### [Monitor with Sysdig (DC/OS)](container-service-monitoring-sysdig.md)
+### Monitoring
+#### [Monitor with OMS (DC/OS)](container-service-monitoring-oms.md)
+#### [Monitor with Datadog (DC/OS)](container-service-monitoring.md)
+#### [Monitor with Sysdig (DC/OS)](container-service-monitoring-sysdig.md)
 ## Manage with Kubernetes
 ### [Getting started with Kubernetes](container-service-kubernetes-walkthrough.md)
 ### [Interacting with the Kubernetes Web UI](container-service-kubernetes-ui.md)
+### Monitoring
+#### [Monitor Kubernetes with OMS](container-service-kubernetes-oms.md)
+#### [Monitor Kubernetes with SysDig](container-service-kubernetes-sysdig.md)
+#### [Monitor Kubernetes with DataDog](container-service-kubernetes-datadog.md)
 ## [Manage with Docker Swarm](container-service-docker-swarm.md)
 # Reference
 ## [PowerShell](/powershell/resourcemanager/azurerm.compute/v2.3.0/azurerm.compute)
